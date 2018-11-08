@@ -11,7 +11,7 @@ Deux hommes ont été arrêté pour avoir volé un calendrier. Ils ont pris six 
 
 Le projet consiste à développer une application web de recherche de film, en s'aidant de l'API **TheMovieDB** et sa `gem`.
 
-Vous pouvez retrouver le site en production en **cliquant sur cette image** : [![image-lien-site](https://cultofthepartyparrot.com/parrots/hd/gentlemanparrot.gif)](http://www.google.com =30x30)
+Vous pouvez retrouver le site en production en **cliquant sur cette image** : [![image-lien-site](https://cultofthepartyparrot.com/parrots/hd/gentlemanparrot.gif =30x30)](http://www.google.com)
 
 ---
 ## CAHIER DES CHARGES
